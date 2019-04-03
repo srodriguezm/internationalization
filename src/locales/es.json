@@ -1,0 +1,37 @@
+{
+	"Position": "Nombre del cargo",
+	"Company": "Empresa",
+	"Salary": "Salario",
+	"City": "Ciudad",
+	"PulibicationDate": "Fecha de publicación",
+	"Views": "No. Visitas",
+  "offers": [
+    {
+      "id": "0001",
+      "name": "Gerente",
+      "company": "Schneider Electric",
+      "salary": 4.5,
+      "city": "Bogotá, Colombia",
+      "date": "2019-03-26",
+      "views": 1805
+    },
+    {
+      "id": "0002",
+      "name": "Ingeniero de Software",
+      "company": "Google Inc.",
+      "salary": 20,
+      "city": "Palo Alto, CA, USA",
+      "date": "2019-03-27",
+      "views": 1900999
+    },
+    {
+      "id": "0003",
+      "name": "Enfermera",
+      "company": "Clínica La Aurora",
+      "salary": 1,
+      "city": "Cali, Colombia",
+      "date": "2019-03-28",
+      "views": 2900999
+    }
+  ]
+}
